@@ -10,3 +10,7 @@ The connections between the matrix and the WeMos D1 are the following
 - DIN ------- D7  yellow
 - CLK ------- D6  blue
 - CS  ------- D5  red
+
+
+![WeMos/8x8 and Matrix](matrix-wait-bus-time_bb.png?raw=true "The connections")
+
